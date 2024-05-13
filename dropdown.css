@@ -12,7 +12,7 @@
 body{
     margin: 0;
     padding: 0;
-    background-image: linear-gradient(to right bottom, orange, white,green);
+    background-image: linear-gradient(to right bottom, orange, white,red);
     height: 100vh;
 }
 nav{
